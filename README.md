@@ -40,6 +40,7 @@ This project helps marketing teams and analysts to:
 ---
 
 ## 🔁 End-to-End Workflow
+```
 Raw CSV Data
 ↓
 Python (Data Cleaning + Feature Engineering)
@@ -47,7 +48,7 @@ Python (Data Cleaning + Feature Engineering)
 SQL (Storage + Querying KPIs)
 ↓
 Tableau (Dashboard + Insights)
-
+```
 
 This pipeline mimics a **real industry ETL + BI workflow** used in marketing and analytics teams.
 
@@ -130,6 +131,7 @@ python src/analysis.py
 
 ---
 ## 📂 Project Structure
+```
 Marketing-Campaign-Analysis/
 │
 ├── data/
@@ -140,7 +142,7 @@ Marketing-Campaign-Analysis/
 ├── marketing.db
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 Project Highlights
