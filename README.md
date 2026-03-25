@@ -115,7 +115,7 @@ An interactive dashboard was built to visualize:
 
 1. Clone the repository  
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/AndugalaPujitha/Marketing-Campaign-Analysis.git
 ```
 2. Install dependencies
 ```bash
